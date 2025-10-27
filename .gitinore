@@ -1,0 +1,24 @@
+# 仮想環境
+venv/
+env/
+.env
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
+
+# IDEファイル
+.vscode/settings.json  
+
+# ログファイル
+*.log
+
+# 環境変数ファイル
+.env
+.env.local
